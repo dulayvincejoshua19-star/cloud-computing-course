@@ -18,7 +18,7 @@ This repository includes:
 
 - **Name:** Vince Joshua Bautista Dulay
 - **Course/Section:** BS Information Technology
-- **Instructor:** [Instructor's Name]
+- **Instructor:** Jenkielyn C. Torres
 - **School Year:** 2026–2027
 
 ---
